@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/01-TUT/static/css/main.a5cecea0.css",
-    "main.js": "/01-TUT/static/js/main.029491ed.js",
-    "index.html": "/01-TUT/index.html",
-    "main.a5cecea0.css.map": "/01-TUT/static/css/main.a5cecea0.css.map",
-    "main.029491ed.js.map": "/01-TUT/static/js/main.029491ed.js.map"
+    "main.css": "/Grocery-List-App/static/css/main.a5cecea0.css",
+    "main.js": "/Grocery-List-App/static/js/main.029491ed.js",
+    "index.html": "/Grocery-List-App/index.html",
+    "main.a5cecea0.css.map": "/Grocery-List-App/static/css/main.a5cecea0.css.map",
+    "main.029491ed.js.map": "/Grocery-List-App/static/js/main.029491ed.js.map"
   },
   "entrypoints": [
     "static/css/main.a5cecea0.css",
