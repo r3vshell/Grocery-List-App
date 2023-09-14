@@ -146,9 +146,11 @@ button {
   border-radius: 0.25rem;
   padding: 0.5rem;
   font-size: 1rem;
-  background-color: aliceblue;
-  color: mediumblue;
+  background-color: #eee;
+  color: steelblue;
   cursor: pointer;
+  box-shadow: 2px 2px 3px;
+  margin-left: 0.05rem;
 }
 
 button:focus, button:hover {
